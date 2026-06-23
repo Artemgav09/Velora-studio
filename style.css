@@ -1,0 +1,6 @@
+body{margin:0;font-family:Arial,sans-serif;background:#0f172a;color:#fff}
+header{text-align:center;padding:80px 20px;background:linear-gradient(135deg,#2563eb,#7c3aed)}
+.btn{display:inline-block;background:#fff;color:#111;padding:12px 22px;border-radius:10px;text-decoration:none}
+section{padding:40px 20px;max-width:1000px;margin:auto}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.card{background:#1e293b;padding:20px;border-radius:12px}
